@@ -1,3 +1,3 @@
-nombre = ["Audi", "Toyota", "Honda"]
+nombre = ["Bob", "Karla", "Alex"]
 
 print(nombre)
